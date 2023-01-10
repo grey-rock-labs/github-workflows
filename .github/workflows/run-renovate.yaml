@@ -26,6 +26,12 @@ on:
       app_private_key:
         description: "Private key of the application used to generate a token"
         required: true
+      dockerhub_username:
+        description: "Dockerhub username for authenticated pulls."
+        required: true
+      dockerhub_token:
+        description: "Dockerhub personal access token."
+        required: true
 
 jobs:
   renovate:
