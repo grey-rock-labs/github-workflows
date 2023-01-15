@@ -30,7 +30,7 @@ on:
 jobs:
   renovate:
     name: Renovate
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Generate Token
         uses: tibdex/github-app-token@v1
