@@ -5,6 +5,5 @@
   ],
   platform: "github",
   username: "GreyRock-bot[bot]",
-  gitAuthor: "greyrock-bot <112729691+greyrock-bot[bot]@users.noreply.github.com>",
-  repositories: ["doonga/gh-workflows"],
+  gitAuthor: "greyrock-bot <112729691+greyrock-bot[bot]@users.noreply.github.com>"
 }
