@@ -53,7 +53,7 @@ jobs:
           RENOVATE_AUTODISCOVER_FILTER: "${{ github.repository }}"
           RENOVATE_PLATFORM: "github"
           RENOVATE_USERNAME: "greyrock-repo-duster[bot]"
-          RENOVATE_GIT_AUTHOR: "greyrock-repo-duster <112729691+repo-duster[bot]@users.noreply.github.com>"
+          RENOVATE_GIT_AUTHOR: "greyrock-repo-duster <112729691+greyrock-repo-duster[bot]@users.noreply.github.com>"
           RENOVATE_PLATFORM_COMMIT: "true"
         with:
           configurationFile: ${{ inputs.configurationFile }}
